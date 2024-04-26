@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satwik28122000
+- 👋 Hi, I’m Satwik
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack software engineering
 - 💞️ I’m looking to collaborate on it industries
